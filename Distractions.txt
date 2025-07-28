@@ -8,6 +8,8 @@ www.tiktok.com##body
 www.solitar.io##body
 ||tetris.com^
 tetris.com##body
+||www.jigsawplanet.com^
+www.jigsawplanet.com##body
 ||www.reddit.com^
 www.reddit.com##body
 ||www.instagram.com^
