@@ -1,4 +1,4 @@
-||www.youtube.com^
+||www.youtube.com*
 www.youtube.com##body
 ||www.twitch.tv^
 www.twitch.tv##body
